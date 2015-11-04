@@ -1,3 +1,3 @@
-##As you go through the wooden door slams shut behind you. Turning around you slowly notice the room looks only familiar.
+##As you go through, the wooden door slams shut behind you. Looking around, you slowly notice the room looks oddly familiar.
 
-##[Continue](../README.md)
+##[Continue](../start_right/README.md)
