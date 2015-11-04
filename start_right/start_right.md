@@ -3,5 +3,5 @@
   
 ###You reach out for the:
 
-###[Right doorknob]()
-###[Left doorknob]()
+###[Right doorknob](../start_right/r-door.md)
+###[Left doorknob](../start_right/l-door.md)
