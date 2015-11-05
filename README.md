@@ -1,8 +1,9 @@
-#Haunted House 
-###Time to choose your path of destiny
----
-You enter the Haunted House and there is a **left** and a **right**.
-###You go ...
+###Through this CYOA project we learned to collaborate on Github. We learned how to have multiple people work on a single repo, such as dealing with merge conflicts and how to have it all coe together on Github.  
 
-##[Left](start_left/start_left.md)
-##[Right](start_right/start_right.md)
+[![f](house.png)](../haunted_house_CYOA/begin.md)
+#[](../haunted_house_CYOA/begin.md)
+
+
+By: [Enrique Vivar](https://github.com/enriquev8884) & [Joanne Fung](https://github.com/JoanneF3188)
+
+Click [here](https://docs.google.com/a/hstat.org/drawings/d/1lxpYAV90RBvsECmLHWS0FILOrofqHql-fyY0usxCD0M/edit?usp=sharing) for our diagram of the CYOA

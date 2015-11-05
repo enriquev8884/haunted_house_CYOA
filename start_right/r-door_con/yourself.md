@@ -5,4 +5,4 @@
 ###The truth of where you are creeps on you. Looking around you see nothing but grass and trees, noticing as well that wherever you just came from has just disappeared.
 
 
-####[Live another path?](../../README.md)
+####[Live another path?](../../begin.md)
