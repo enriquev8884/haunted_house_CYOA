@@ -9,5 +9,5 @@ You brush it off and walk by the girl and there's a side leading to either the k
 
 You enter the ....
 
-##[Kitchen](kitchen.md)  
-##[Bathroom](bathroom.md)
+##[Kitchen](../choice-3/kitchen.md)  
+##[Bathroom](../choice-3/bathroom.md)
