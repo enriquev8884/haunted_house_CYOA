@@ -2,7 +2,7 @@
 
 ![](house.png)
 
-[Enter If You Dare](../haunted_house_CYOA/begin.md)
+[Enter If You Dare](begin.md)
 
 
 By: [Enrique Vivar](https://github.com/enriquev8884) & [Joanne Fung](https://github.com/JoanneF3188)
