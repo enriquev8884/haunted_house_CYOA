@@ -1,7 +1,8 @@
-###Through this CYOA project we learned to collaborate on Github. We learned how to have multiple people work on a single repo, such as dealing with merge conflicts and how to have it all coe together on Github.  
+###Through this CYOA project we learned to collaborate on Github. It thought use how to have multiple people work on a single repo, such as dealing with merge conflicts and how to have it all coe together on Github.  
 
-[![f](house.png)](../haunted_house_CYOA/begin.md)
-#[](../haunted_house_CYOA/begin.md)
+![](house.png)
+
+[Enter If You Dare](../haunted_house_CYOA/begin.md)
 
 
 By: [Enrique Vivar](https://github.com/enriquev8884) & [Joanne Fung](https://github.com/JoanneF3188)
