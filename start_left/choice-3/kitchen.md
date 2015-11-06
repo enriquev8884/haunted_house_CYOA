@@ -1,6 +1,6 @@
 ##You enter the Kitchen!
 
--chucky image-
+![](Chucky.jpg)
 
 ---
 
