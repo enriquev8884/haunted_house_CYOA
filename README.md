@@ -1,4 +1,4 @@
-###Through this CYOA project we learned to collaborate on Github. It thought use how to have multiple people work on a single repo, such as dealing with merge conflicts and how to have it all work together on Github.  
+###Through this CYOA project we learned to collaborate on Github. It taught us how to have multiple people work on a single repo, such as dealing with merge conflicts and how to have it all work together on Github.  
 
 #ENTER IF YOU DARE  
 [<img src="door.jpg">](begin.md)  
