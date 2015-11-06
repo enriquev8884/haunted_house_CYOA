@@ -1,5 +1,7 @@
 ##YOU TURNED AWAY!
 
+![](Chainsaw-Man.png)
+
 You turn around and a guy in white mask appears with a chainsaw and **KILLS YOU.**
 
 _**Turning away from problems don't solve anything!**_
