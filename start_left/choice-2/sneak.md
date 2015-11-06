@@ -1,6 +1,6 @@
 ##You sneak by the girl and fall down into a room that is upside down!
 
--upside down image-
+![](upside-down.jpg)
 
 There's a cookie that says "Don't eat me" on the table and the rabbit from Alice in Wonderland
 
