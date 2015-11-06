@@ -1,13 +1,8 @@
 ##You enter the Kitchen!
 
--scary image-
-
-The girl jumps up and gives you a little scare...see that wasn't so bad..  
-You brush it off and walk by the girl and there's a side leading to either the kitchen or the bathroom.
+-chucky image-
 
 ---
 
-You enter the ....
-
-##[Kitchen](../choice-3/kitchen.md)  
-##[Bathroom](../choice-3/bathroom.md)
+OH NO! You come up to Chucky! Chucky pulls out a knife and you plunge into darkness. 
+##[Click to continue](../../fin.md)
