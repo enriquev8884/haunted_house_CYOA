@@ -2,7 +2,7 @@
 
 ---
 
--do not eat me cookie image-
+![](Cookie.png)
 
 You eat the cookie when it clearly says "Do Not Eat Me"!
   
